@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an internal ticketing web app for my Company<br>🤝 I’m looking for help with DevOps, AI related subjects and personal projects with python modules<br>🌱 I’m currently learning Web development & production in real-life environments<br>💬 Ask me about FastAPI, docker, Node, Python, Java...<br>⚡ Fun fact i love docker
+🔭 I’m currently working on an internal ticketing web app for the company i'm an intern at<br>🤝 I’m looking for help with DevOps, AI related subjects and personal projects with python modules<br>🌱 I’m currently learning Web development & production in real-life environments<br>💬 Ask me about FastAPI, docker, Node, Python, Java...<br>⚡ Fun fact i love docker
 
 
 ## 🌐 Socials:
